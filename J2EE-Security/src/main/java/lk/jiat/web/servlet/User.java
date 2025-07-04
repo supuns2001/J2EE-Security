@@ -20,9 +20,9 @@ public class User extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
 //        userSessionBean.method1();
-  //      userSessionBean.method2();
+//        userSessionBean.method2();
 //        userSessionBean.method3();
-        userSessionBean.method4();
+          userSessionBean.method4();
 //        userSessionBean.method5();
     }
 }

@@ -33,6 +33,9 @@
         </form-login-config>
     </login-config>
 
+<!-- me lohin-config eka Basic authentication ekakata  aniwarenma oni naa-->
+
+
     <security-role>
         <role-name>admin</role-name>
     </security-role>
@@ -43,3 +46,4 @@
 
 
 </web-app>
+
